@@ -1,0 +1,28 @@
+name: BradyStephenson
+favicon: null
+layout_spectrum: 0.8353243297897279
+typography_spectrum: 0.9002002619672567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6962712260428816
+  lightness: 0.7892169286496937
+  saturation: 0.7395822233520448
+  rhythmicContrast: 0.8129242700524628
+purpose: []
